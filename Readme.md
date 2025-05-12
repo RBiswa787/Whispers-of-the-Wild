@@ -23,14 +23,6 @@ https://youtu.be/n_BRV4jSGD8 (Don't miss the core game mechanic towards the end)
 
 </div>
 
-### Google Drive Link
-
-https://drive.google.com/drive/folders/1dQrjVqJenlnRpJ0MNh_s5Ai8T4ZDFQld?usp=sharing
-
-### AI Usage Reports
-
-[https://drive.google.com/drive/folders/1NdxrTpH6I-w89w3SL49aGiPjd6XOzIc7](https://drive.google.com/drive/folders/1NdxrTpH6I-w89w3SL49aGiPjd6XOzIc7?usp=drive_link)
-
 ### Core AI In-Game Features:
 
 Whispers of the Wild stands out for its innovative integration of AI to create a truly dynamic and immersive narrative experience, directly addressing the theme "Games where AI characters evolve or learn." Key highlights include:
@@ -104,8 +96,7 @@ Whispers of the Wild stands out for its innovative integration of AI to create a
 In essence, while not undergoing radical personality shifts, the AI in "Whispers of the Wild" demonstrates learning by integrating new information (from the player or environment), adapting responses based on player behavior, and evolving the knowledge they dispense as the story unfolds. This creates a more dynamic and interactive narrative experience than with static NPCs.
 
 ### How to Install
-1. Open the Google Drive Link provided above ( https://drive.google.com/drive/folders/1dQrjVqJenlnRpJ0MNh_s5Ai8T4ZDFQld?usp=sharing )
-
+1. Open the Google Drive Link provided in submission form
 2. Download Whispers of the Wild Build.zip file.
 3. Extract from the zip
 4. Click on Whispers of the Wild.exe
