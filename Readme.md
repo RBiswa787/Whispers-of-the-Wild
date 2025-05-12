@@ -115,6 +115,7 @@ Available in AI Usage Report in Google Drive link (As in submission form)
 ![alt text](image-2.png)
 
 7. You should see this screen:
+   
 ![alt text](image-3.png)
 
 8. Yay! Whispers of the Wild is now ready to play !
