@@ -12,8 +12,6 @@ The valley was once deeply connected to the natural world, guided by ancient wis
 ### Full Game Walkthrough (Youtube Unlisted)
 https://youtu.be/n_BRV4jSGD8 (Don't miss the core game mechanic towards the end)
 
-[![Video Title](https://img.youtube.com/vi/n_BRV4jSGD8/0.jpg)](https://www.youtube.com/watch?v=n_BRV4jSGD8)
-
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 10px;">
 
@@ -109,22 +107,44 @@ Controls:
 
 ### AI Non Playable Characters 
 ### Kael Stonehand (The Forest Woodman)
-<br>
-<video controls src="output (2).mp4" title="
-"></video>
-<br>
+![alt text](Kael.png)
 
 ### Elara Meadowlight (The Orchard Keeper)
+
+![alt text](Elara.png)
 <br>
-<video controls src="output (1).mp4" title="Title"></video>
-<br>
+
 
 ### Theron Greycloak (The Hilltop Sage)
-<br>
-<video controls src="output (3).mp4" title=""></video>
-<br>
+![alt text](TheronGrey.png)
 
 ### Lyra Watersong (The Lakeside Listener)
-<br>
-<video controls src="output (4).mp4" title="Title"></video>
-<br>
+![alt text](LyraW.png)
+
+### Licenses and Attributes
+
+1. Free Sample Environment of Polytope Studio LowPoly Environment
+
+   https://assetstore.unity.com/packages/3d/environments/lowpoly-environment-nature-free-medieval-fantasy-series-187052
+    
+   Standard Unity Asset Store EULA License
+
+2. Unity Starter Asset First Person Controller
+
+   https://assetstore.unity.com/packages/essentials/starter-assets-firstperson-updates-in-new-charactercontroller-pa-196525
+
+   Non-Standard EULA License
+
+3. Pixabay Dropping Rocks soundtrack
+   Artist : iwanPlays (Freesound)
+   
+   https://pixabay.com/sound-effects/dropping-rocks-5996/
+
+4. Pixabay Landslide Soundtrack
+   Artist : SoundReality
+
+   https://pixabay.com/sound-effects/landslide-128314/
+
+5. Pixabay Forest Atmosphere Soundtrack
+   Artist : AudioPapkin
+   https://pixabay.com/sound-effects/forest-atmosphere-009localization-poland-330009/
