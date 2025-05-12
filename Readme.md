@@ -69,6 +69,28 @@ https://drive.google.com/drive/folders/1dQrjVqJenlnRpJ0MNh_s5Ai8T4ZDFQld?usp=sha
   </tbody>
 </table>
 
+### Theme
+#### AI Characters that Evolve & Learn
+
+"Whispers of the Wild" exemplifies games with evolving or learning AI characters through several key mechanics:
+
+1.  **Evolving Knowledge Pools:**
+    * The core design features NPCs with "evolving knowledge pools." This means their understanding isn't static and can be updated by new information or player progression.
+    * **Example:** Theron processes player-relayed information about carvings (from Kael) to provide relevant lore. Lyra only offers specific guidance to the "Watcher's Perch" after the player shares Theron's legend, showing her knowledge and subsequent actions are updated.
+
+2.  **Conditional & Adaptive Responses:**
+    * NPCs adapt their behavior and the information they share based on player actions and earned trust.
+    * **Example:** Elara becomes less reserved as trust is earned. Kael's skepticism can give way to helpfulness if the player demonstrates respect or knowledge, showing he "learns" about the player's character.
+
+3.  **Information-Gated Progression:**
+    * The narrative progresses because NPCs "learn" what the player has discovered from others. They then provide the next piece of the puzzle, reacting to the evolving context the player brings.
+    * This creates a dynamic chain where each NPC's output is influenced by the player's input, which represents new knowledge for that NPC at that moment.
+
+4.  **Player Engagement Dependent Interaction:**
+    * The requirement for players to be attentive for NPCs to guide them implies an AI that "learns" or gauges player investment before revealing crucial details, adapting its willingness to help.
+
+In essence, while not undergoing radical personality shifts, the AI in "Whispers of the Wild" demonstrates learning by integrating new information (from the player or environment), adapting responses based on player behavior, and evolving the knowledge they dispense as the story unfolds. This creates a more dynamic and interactive narrative experience than with static NPCs.
+
 ### How to Install
 1. Open the Google Drive Link provided above ( https://drive.google.com/drive/folders/1dQrjVqJenlnRpJ0MNh_s5Ai8T4ZDFQld?usp=sharing )
 
@@ -137,7 +159,7 @@ Controls:
 
 3. Pixabay Dropping Rocks soundtrack
    Artist : iwanPlays (Freesound)
-   
+
    https://pixabay.com/sound-effects/dropping-rocks-5996/
 
 4. Pixabay Landslide Soundtrack
