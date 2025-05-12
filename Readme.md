@@ -38,7 +38,7 @@ Whispers of the Wild stands out for its innovative integration of AI to create a
 
 <li><b>AI-Culminated Puzzle Mechanic</b> : The journey guided by the AI NPCs culminates in a unique puzzle: finding the "Watcher's Perch" near the lake based on Lyra's rhyme and Theron's lore. Here, the player must use their understanding of the clues gathered from the AI characters to deduce the correct order to activate three ancient ruins, directly revealing the hidden Heartseed. This mechanic ties the interactive AI narrative directly into the game's physical puzzle resolution.</li>
 
-<li><b>AI in Development Efficiency</b> : Beyond gameplay, AI significantly streamlined development, assisting in 3D asset generation (Meshy AI, Hunyuan 3D), animation rigging (Mixamo), storyline/mechanics brainstorming (ChatGPT, Gemini), and even C# scripting (Gemini). This allowed a focused team to create a game with such a complex core mechanic.</li>
+<li><b>AI in Development Efficiency</b> : Beyond gameplay, AI significantly streamlined development, assisting in 3D asset generation (Meshy AI, Hunyuan 3D), animation rigging (Mixamo), storyline/mechanics brainstorming (ChatGPT, Gemini), and even C# scripting (Gemini)</li>
 <ul>
 
 ### AI Tools Used
