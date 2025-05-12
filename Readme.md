@@ -27,6 +27,10 @@ https://youtu.be/n_BRV4jSGD8 (Don't miss the core game mechanic towards the end)
 
 https://drive.google.com/drive/folders/1dQrjVqJenlnRpJ0MNh_s5Ai8T4ZDFQld?usp=sharing
 
+### AI Usage Reports
+
+[https://drive.google.com/drive/folders/1NdxrTpH6I-w89w3SL49aGiPjd6XOzIc7](https://drive.google.com/drive/folders/1NdxrTpH6I-w89w3SL49aGiPjd6XOzIc7?usp=drive_link)
+
 ### Core AI In-Game Features:
 
 Whispers of the Wild stands out for its innovative integration of AI to create a truly dynamic and immersive narrative experience, directly addressing the theme "Games where AI characters evolve or learn." Key highlights include:
