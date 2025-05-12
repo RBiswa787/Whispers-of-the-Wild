@@ -95,8 +95,14 @@ Whispers of the Wild stands out for its innovative integration of AI to create a
 
 In essence, while not undergoing radical personality shifts, the AI in "Whispers of the Wild" demonstrates learning by integrating new information (from the player or environment), adapting responses based on player behavior, and evolving the knowledge they dispense as the story unfolds. This creates a more dynamic and interactive narrative experience than with static NPCs.
 
+### Google Drive Link
+Submitted via form
+
+### AI Usage Report
+Available in AI Usage Report in Google Drive link (As in submission form)
+
 ### How to Install
-1. Open the Google Drive Link provided in submission form
+1. <b>Open the Google Drive Link provided in submission form</b>
 2. Download Whispers of the Wild Build.zip file.
 3. Extract from the zip
 4. Click on Whispers of the Wild.exe
@@ -129,6 +135,7 @@ Controls:
 ### System Requirements
 1. Recommended to have atleast 8 GB RAM
 2. Please close any other apps in background for better performance (FPS)
+3. In case of any 401 or 429 code in chat output (please ping me, prolly API key limits reached, will renew)
 
 ### AI Non Playable Characters 
 ### Kael Stonehand (The Forest Woodman)
