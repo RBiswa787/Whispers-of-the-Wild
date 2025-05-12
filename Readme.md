@@ -28,10 +28,18 @@ https://youtu.be/n_BRV4jSGD8 (Don't miss the core game mechanic towards the end)
 https://drive.google.com/drive/folders/1dQrjVqJenlnRpJ0MNh_s5Ai8T4ZDFQld?usp=sharing
 
 ### Core AI In-Game Features:
+
+Whispers of the Wild stands out for its innovative integration of AI to create a truly dynamic and immersive narrative experience, directly addressing the theme "Games where AI characters evolve or learn." Key highlights include:
+
 <ul>
-<li><b>Intelligent NPCs </b>: Elara, Kael, Theron, and Lyra are powered by the GPT-4o Mini model, enabling context-aware, character-consistent interactions that evolve over time. ( to know more about how NPC Personas are defined, head over to the AI Usage Reports in Google Drive !! )</li>
-<li><b>Unique Knowledge Pools </b>: Each NPC "remembers" its world, offering depth, secrets, and lore unique to your conversations.</li>
-</ul>
+<li><b>Revolutionary AI-Powered NPCs</b> : Our four main NPCs are powered by the GPT-4o mini model, giving them distinct personalities, backstories, and worldviews. Crucially, their "knowledge pool" evolves based on player interaction. They don't just provide static dialogue; they listen to what the player tells them (information gained from other NPCs or observations) and update their understanding, influencing future responses and the clues they provide. This creates responsive, evolving characters who react organically to the player's journey.</li>
+
+<li><b>Dynamic, Clue-Driven Narrative</b> : The core game mechanic is intrinsically linked to the AI NPCs' evolving knowledge. Players must pay close attention to the clues and riddles shared by the characters. This information guides the player through the valley, from Elara's orchard to Kael's forest, then to Theron's hills, and finally to Lyra by the lake. The player's ability to process and act on these AI-generated clues is essential for progression.</li>
+
+<li><b>AI-Culminated Puzzle Mechanic</b> : The journey guided by the AI NPCs culminates in a unique puzzle: finding the "Watcher's Perch" near the lake based on Lyra's rhyme and Theron's lore. Here, the player must use their understanding of the clues gathered from the AI characters to deduce the correct order to activate three ancient ruins, directly revealing the hidden Heartseed. This mechanic ties the interactive AI narrative directly into the game's physical puzzle resolution.</li>
+
+<li><b>AI in Development Efficiency</b> : Beyond gameplay, AI significantly streamlined development, assisting in 3D asset generation (Meshy AI, Hunyuan 3D), animation rigging (Mixamo), storyline/mechanics brainstorming (ChatGPT, Gemini), and even C# scripting (Gemini). This allowed a focused team to create a game with such a complex core mechanic.</li>
+<ul>
 
 ### AI Tools Used
 <table style="width:100%; border-collapse: collapse; font-family: Arial, sans-serif;">
